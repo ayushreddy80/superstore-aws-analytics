@@ -1,0 +1,5 @@
+"discount_range","avg_profit","total_orders"
+"No Discount","66.9","4798"
+"Low (0-20%)","26.5","3803"
+"Medium (20-40%)","-77.86","460"
+"High (40%+)","-106.71","933"
